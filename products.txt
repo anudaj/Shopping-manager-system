@@ -1,0 +1,3 @@
+Clothing,3456D,iron,23,2300.0,medium,red
+Electronics,67890,kettle,12,6000.0,18,suzuki
+Clothing,C2345,sarong,12,800.0,medium,black
